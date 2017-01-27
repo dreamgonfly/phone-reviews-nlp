@@ -1,0 +1,8 @@
+*.DS_Store
+.ipynb_checkpoints/
+*.log
+sandbox/
+data/*
+!data/README.md
+medium/*
+!medium/README.md
